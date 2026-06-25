@@ -15,10 +15,18 @@ from werkzeug.utils import secure_filename
 from gee_backend import *
 
 import ee
+import os
+import json
+
+service_account = os.environ["EE_SERVICE_ACCOUNT"]
+
+key_data = json.loads(
+    os.environ["EE_PRIVATE_KEY"]
+)
 
 credentials = ee.ServiceAccountCredentials(
-    "crop-dashboard@bubbly-sentinel-486808-v7.iam.gserviceaccount.com",
-    "bubbly-sentinel-486808-v7-b7705af6484e.json"
+    service_account,
+    key_data=json.dumps(key_data)
 )
 
 ee.Initialize(
