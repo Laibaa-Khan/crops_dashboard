@@ -1,7 +1,17 @@
+import os
+import json
 import ee
-import pandas as pd
+
+service_account = os.environ["EE_SERVICE_ACCOUNT"]
+private_key = json.loads(os.environ["EE_PRIVATE_KEY"])
+
+credentials = ee.ServiceAccountCredentials(
+    service_account,
+    key_data=json.dumps(private_key)
+)
 
 ee.Initialize(
+    credentials,
     project="bubbly-sentinel-486808-v7"
 )
 
