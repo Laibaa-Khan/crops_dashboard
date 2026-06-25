@@ -1,6 +1,6 @@
 Flask
 earthengine-api
-folium
 pandas
+folium
+gunicorn
 Werkzeug
-google-auth
