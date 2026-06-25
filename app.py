@@ -16,7 +16,13 @@ from gee_backend import *
 
 import ee
 
+credentials = ee.ServiceAccountCredentials(
+    "crop-dashboard@bubbly-sentinel-486808-v7.iam.gserviceaccount.com",
+    "bubbly-sentinel-486808-v7-b7705af6484e.json"
+)
+
 ee.Initialize(
+    credentials,
     project="bubbly-sentinel-486808-v7"
 )
 
