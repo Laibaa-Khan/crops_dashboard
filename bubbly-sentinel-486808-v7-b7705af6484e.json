@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bubbly-sentinel-486808-v7",
+  "private_key_id": "b7705af6484e3e068e6ee1db7895e7d5d7d80aa0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZ8+3/vvyj1Brh\nFCysSUP33oomRTVNaGvpn8DyQy/AC9yu5HHC1jPU1PbyhiyQM7V+s1LHk6IQAT4c\n7hjt7FRLsT5WQSBXbe7lU+lfboekYA7H8xiXgrN3eCwQaBV74pJmwoG8hcOwwUFq\nmtsHAo7tPXcYrJq/f0QWxgznxWsvJ/6VwMGluiFf0zuTcHgvzNgN+tEoKtqNOdS4\nRi6PaqQoOqO5+1R0arwo+SGnsePfO0E2Xgz9jDhP/B8ogMmta845tTcvtldyAe07\nCTE+2TY1kCaJZanoIaFOYgRNmi5ERudDPFVumMS6QQVHq12PIBEGBhGZB2g4DUtQ\nS+Q9BA2LAgMBAAECggEAAhXwQVcIojOP88xXLm8RUhCgldCjHGOMF6oRcBVlfVEI\n/OOlVm1EdyH1QqogQseWNZ9AWw4sLPD9NsbndB/FuwEJNjZGOZ+bNHJuO6XTLPar\nsc6XeC/4w1W9EOCjcYEqIo9i7O8k5hXxOTSbUcAIHgZpwQqPaOaz5ow/FfJ9vR0Z\n/TC4oBdXM7rtYvw+1sUw/OkrbdumsRwxMhCZkobdc/k2lfSG6qnGtXm9Axa+uRAg\nfvNRzZQKg00nLu5k8TeEh/cEkne+gdxWOczBcmc3Is2uXt2OcbRn1EV+Ohx8l6qj\n8zOSCVhMZ/H+zRe9aZzcPG0tyDrdz6EqUuSuAQMeQQKBgQDvHsFJS8pani7q2/0h\nYXZ/8KKZe9WF2doSn1gtlS3GyL0tu3X0s+Mbt6O9W9TtyjHEZm16N86EnN8MOCRz\nqK6UnqE+pvTY5oCBHAh6bMYG38cOr8r1WZvr4/S+LkToNrdR5zOHNdNP54MzW/hF\nSDlGd2RW7WU74pzvwB8nmjCsuwKBgQDpVqa9qpdVPbKXMnnCriQnU2EdBUJdqRJL\nasv4/RtmtZwXitkD2W2KgZZprGLoMPktOC+La9t0JRu7sk50Zs7Ma+TIROKMyMn5\nAnIsKTGrgjCaaWPtMFh9Y66+eUwwBUZWgg5Sxgztml/Gt+tmiHtcw213zhL7E13j\n4B2RHMn9cQKBgFFBRDEh/gs5AXxxcNzs/5WOMdKyD+bCFqaJWy9yJ/IKuK5Xq0eR\n8TSz/IIWOI7tTGgO3ljPqe/KVskSMuDSizCZjvV5Sm6CNVyqJ/9iAxDG7h+BgRhK\ncP+BoOMXWfcG0NiWFh52He5jH2ROdlkkp8HYRFJ9rQ7ifK3DvVJ5xNyNAoGBAL2o\nzez6PPlvJbtZrrh7vS0ty5DAFpp0c0dTrila6avJT++ezxge4bej7zNDiD08mTyV\nH6gOahj0lJ8ypixc6BgmVpYlz5MpHWnGADE+5n2GW6UWpr9C/ZolrQJrK28YynxE\nSAolqppyUQj/s1nq84KJ4m9v0+O6cSVoo/+wS8oxAoGAN8SJQpWVUAgFPOffxqIK\nbHdXDXTpar1Db6N3u5ZerAQtYOUhsZrHt5+I0ET9b398UYzl9HdgcFIM8f5AKo7/\nWMls/96APYPTsTt61zKKezhMI3j43OeOr2zaYhP+XalatMvBb4T8UJ/Tq2nkD1dF\nhVWqRs9yTs2b/xrxsmi45FE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "crop-dashboard@bubbly-sentinel-486808-v7.iam.gserviceaccount.com",
+  "client_id": "112123095051361782946",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crop-dashboard%40bubbly-sentinel-486808-v7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
